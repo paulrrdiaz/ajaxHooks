@@ -1,0 +1,16 @@
+{
+	"name": "ajaxHooks",
+	"version": "0.0.1",
+	"ignore": [
+		"test",
+		"build",
+		".bowerrc",
+		".gitignore",
+		".jshintignore",
+		".jshintrc",
+		"bower.json",
+		"grunt.js",
+		"package.json",
+		"README.md"
+	],
+}
