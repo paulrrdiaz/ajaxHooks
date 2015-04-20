@@ -1,5 +1,6 @@
 {
 	"name": "ajaxHooks",
+	"main": "src/xdr.js",
 	"version": "0.0.1",
 	"ignore": [
 		"test",
